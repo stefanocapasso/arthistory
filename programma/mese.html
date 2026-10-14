@@ -23,7 +23,22 @@ const params=new URLSearchParams(location.search),month=(params.get('m')||'01').
 const content=document.getElementById('content'),pct=document.getElementById('pct'),userStatus=document.getElementById('userStatus'),loginBtn=document.getElementById('loginBtn'),logoutBtn=document.getElementById('logoutBtn'),syncState=document.getElementById('syncState');
 let boxes=[],notes=[],works=[],statuses=[],links=[],feedbacks=[],completionDates={},currentUser=null,saveTimer=null;
 function preprocess(src){src=src.replace(/^> \*\*Fonte canonica:\*\*.*\n?/gm,'');src=src.replace(/^> Prima di creare o modificare mesi successivi.*\n?/gm,'');src=src.replace(/<!--\s*task:([a-zA-Z0-9_-]+)\s*-->\s*\n- \[ \] (.*)/g,'- [ ] <span data-task-id="$1" data-required="true">$2</span>');src=src.replace(/<!--\s*optional:([a-zA-Z0-9_-]+)\s*-->\s*\n- \[ \] (.*)/g,'- [ ] <span data-task-id="$1" data-required="false">$2 <span class="optional-label">facoltativo</span></span>');src=src.replace(/<!--\s*study-tools:([a-zA-Z0-9_-]+)\s*-->/g,'<div class="study-tools" data-slot="$1"></div>');return src}
-function compactChapters(){const heads=[...content.querySelectorAll('h1')].filter(h=>/^(Settimana\s+\d+|Verifica di fine mese)/i.test(h.textContent.trim()));if(!heads.length)return;const nav=document.createElement('div');nav.className='chapter-nav';heads.forEach((h,i)=>{const details=document.createElement('details');details.className='chapter';if(i===0)details.open=true;const summary=document.createElement('summary');summary.textContent=h.textContent.trim();const body=document.createElement('div');body.className='chapter-body';h.parentNode.insertBefore(details,h);details.append(summary,body);let node=h;while(node&&!(node!==h&&node.tagName==='H1')){const next=node.nextSibling;body.appendChild(node);node=next}const btn=document.createElement('button');btn.type='button';btn.textContent=/^Settimana/i.test(summary.textContent)?summary.textContent.replace(/^Settimana\s+/i,'S'):'Verifica';btn.addEventListener('click',()=>{details.open=true;details.scrollIntoView({behavior:'smooth',block:'start'})});nav.appendChild(btn)});const first=content.querySelector('.chapter');if(first)content.insertBefore(nav,first)}
+function compactChapters(){
+ const heads=[...content.querySelectorAll('h1')].filter(h=>/^(Settimana\s+\d+|Verifica di fine mese)/i.test(h.textContent.trim()));
+ if(!heads.length)return;
+ const nav=document.createElement('div');nav.className='chapter-nav';
+ heads.forEach((h,i)=>{
+  const details=document.createElement('details');details.className='chapter';details.open=i===0;
+  const summary=document.createElement('summary');summary.textContent=h.textContent.trim();
+  const body=document.createElement('div');body.className='chapter-body';
+  h.parentNode.insertBefore(details,h);details.append(summary,body);
+  let node=h;
+  while(node&&!(node!==h&&node.tagName==='H1')){const next=node.nextSibling;body.appendChild(node);node=next;}
+  const btn=document.createElement('button');btn.type='button';btn.textContent=/^Settimana/i.test(summary.textContent)?summary.textContent.replace(/^Settimana\s+/i,'S'):'Verifica';
+  btn.onclick=()=>{details.open=true;details.scrollIntoView({behavior:'smooth',block:'start'})};nav.append(btn);
+ });
+ content.insertBefore(nav,content.querySelector('.chapter'));
+}
 async function insertQuiz(){
  const data=await(await fetch('quiz-data.json?v='+Date.now(),{cache:'no-store'})).json();
  const all=data[month];if(!all)throw Error('Quiz non disponibili per il mese '+month);
