@@ -190,25 +190,6 @@ Giorgione, **La tempesta** · Tiziano, **Venere di Urbino**
 
 # Verifica di fine mese
 
-## Verifica storico-visiva
-<!-- task:final1 -->
-- [ ] Ricostruisco la linea: **Giotto → primo Rinascimento fiorentino → cultura medicea/Botticelli → Alto Rinascimento → Venezia → apertura verso il Manierismo**.
-
-<!-- task:final2 -->
-- [ ] Riconosco almeno **8 delle 10 opere essenziali** del mese e per ciascuna indico autore/contesto e una trasformazione importante che rappresenta.
-
-<!-- task:final3 -->
-- [ ] In 5 minuti spiego senza appunti: prospettiva; recupero dell'antico; umanesimo; differenza primo/Alto Rinascimento; una differenza Firenze-Roma/Venezia.
-
-## Arte ↔ Filosofia
-<!-- task:final-phil -->
-- [ ] Collego senza falsa causalità: **recupero dell'antico → umanesimo → Ficino/Pico e neoplatonismo rinascimentale → nuova centralità dell'individuo**, ricordando la continuità con Platone/Plotino studiati nel Mese 1.
-
-## Portfolio
-<!-- task:final4 -->
-- [ ] Scelgo i due esperimenti pratici più riusciti e per ciascuno scrivo: problema storico → scelta formale → risultato → cosa cambierei.
-
-## Criterio di completamento
-Il mese è concluso quando sono svolte le attività essenziali, riconosci almeno **8 opere su 10**, sai spiegare le trasformazioni principali senza affidarti a un elenco di nomi e hai completato i quattro esercizi pratici. Gli approfondimenti eventuali restano fuori dalla percentuale essenziale.
+Il **quiz interattivo finale** viene caricato automaticamente qui, con domande a risposta multipla, immagini e correzione immediata.
 
 <!-- study-tools:final -->
