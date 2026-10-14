@@ -367,29 +367,6 @@ Sainte-Foy, Conques · Cattedrale di Chartres · Cimabue, Santa Trinita Madonna 
 
 # Verifica di fine mese
 
-## Verifica storico-visiva
-<!-- task:final1 -->
-- [ ] Costruisco a memoria la linea: Grecia arcaica/classica/ellenistica → Roma → tardoantico/cristianesimo → Bisanzio → Romanico/Gotico → Giotto.
-
-<!-- task:final2 -->
-- [ ] Da una selezione casuale delle **17 opere essenziali realmente introdotte** ne riconosco almeno 13 e indico periodo + una ragione della loro importanza. Le opere presenti solo negli approfondimenti facoltativi non entrano nella prova essenziale.
-
-<!-- task:final3 -->
-- [ ] Spiego oralmente in circa 5 minuti le grandi trasformazioni: corpo arcaico → equilibrio classico → pathos/varietà ellenistica → immagine e spazio romano → immagine simbolica cristiano-bizantina → ritorno di massa/spazio/narrazione con Giotto.
-
-## Linea del tempo Arte ↔ Filosofia
-<!-- task:final-phil -->
-- [ ] Senza consultare appunti costruisco una linea parallela essenziale: **Socrate/Platone/Aristotele → stoicismo/epicureismo e scuole ellenistiche → filosofia romana → Plotino/neoplatonismo → Agostino → scolastica/Tommaso**. Per almeno tre passaggi so indicare un problema culturale che aiuta a contestualizzare le immagini senza sostenere falsi rapporti causali.
-
-## Verifica critica
-<!-- task:final4 -->
-- [ ] Scelgo due letture critiche italiane. Per ciascuna scrivo 5–8 righe non di riassunto, ma su **quale idea ha cambiato o precisato il mio modo di guardare le opere**.
-
-## Portfolio pratico
-<!-- task:final5 -->
-- [ ] Seleziono i due esperimenti pratici più significativi del mese e aggiungo per ciascuno: problema storico → scelta formale → risultato → cosa cambierei.
-
-## Criterio di completamento
-Il mese è concluso quando sono state svolte le letture e i video essenziali, si sa orientarsi nella sequenza storica, si riconoscono almeno **13 opere essenziali su 17**, sono state completate le quattro esercitazioni pratiche, **si sa spiegare esplicitamente il passaggio Classico → Ellenismo** e si riesce a ricostruire la linea filosofica essenziale del mese. Gli approfondimenti consigliati sono tracciabili con spunta e data, ma **non entrano nella percentuale di avanzamento essenziale né introducono prerequisiti obbligatori per esercizi o verifiche**.
+Il **quiz interattivo finale** viene caricato automaticamente qui, con domande a risposta multipla, immagini e correzione immediata.
 
 <!-- study-tools:final -->
