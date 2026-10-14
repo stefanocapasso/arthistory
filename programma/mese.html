@@ -44,7 +44,7 @@ function compactChapters(){
   let node=h;
   while(node&&!(node!==h&&node.tagName==='H1')){const next=node.nextSibling;body.appendChild(node);node=next;}
   const btn=document.createElement('button');btn.type='button';btn.textContent=/^Settimana/i.test(summary.textContent)?summary.textContent.replace(/^Settimana\s+/i,'S'):'Verifica';
-  btn.onclick=()=>{details.open=true;details.scrollIntoView({behavior:'smooth',block:'start'})};nav.append(btn);
+  btn.onclick=()=>{const opening=!details.open;details.open=opening;if(opening)details.scrollIntoView({behavior:'smooth',block:'start'});};nav.append(btn);
  });
  content.insertBefore(nav,content.querySelector('.chapter'));
 }
@@ -54,7 +54,7 @@ async function insertQuiz(){
  const data=EMBEDDED_QUIZZES;
  const all=data[month];if(!all)throw Error('Quiz non disponibili per il mese '+month);
  function build(title,questions,key){
-  const section=document.createElement('details');section.className='quiz';
+  const section=document.createElement('details');section.className='quiz';section.open=false;
   const summary=document.createElement('summary');summary.textContent=title+' — '+questions.length+' domande';section.append(summary);
   const inner=document.createElement('div');inner.className='quiz-inner';section.append(inner);
   
@@ -63,7 +63,7 @@ async function insertQuiz(){
   let answered=0,correct=0;
   if(!Array.isArray(questions))throw Error('Formato delle domande non valido: '+key);
   questions.forEach((q,i)=>{
-   const item=document.createElement('details');item.className='quiz-item';const itemSummary=document.createElement('summary');itemSummary.textContent=(i+1)+'. '+q[0];item.append(itemSummary);const field=document.createElement('fieldset');item.append(field);
+   const item=document.createElement('details');item.className='quiz-item';item.open=false;const itemSummary=document.createElement('summary');itemSummary.textContent=(i+1)+'. '+q[0];item.append(itemSummary);const field=document.createElement('fieldset');item.append(field);
    if(q[4]&&imageMatchesQuestion(q)){const img=document.createElement('img');img.src=q[4];img.alt='Opera da osservare';img.loading='lazy';img.onclick=()=>window.open(img.src,'_blank','noopener');img.onerror=()=>{img.alt='Immagine non disponibile: impossibile rispondere alla domanda visiva';};field.append(img)}
    q[1].forEach((answer,j)=>{const label=document.createElement('label');const input=document.createElement('input');input.type='radio';input.name='quiz-'+month+'-'+key+'-'+i;label.append(input,document.createTextNode(' '+answer));field.append(label);input.addEventListener('change',()=>{
     field.querySelectorAll('input').forEach(x=>x.disabled=true);
@@ -72,7 +72,7 @@ async function insertQuiz(){
     score.textContent='Risposte corrette: '+correct+' su '+answered+' — domande: '+questions.length;summary.textContent=title+' — '+answered+'/'+questions.length+' completate';itemSummary.textContent=(i+1)+'. '+q[0]+' '+(ok?'✓':'✗');
     if(answered===questions.length){const storageKey='arthistory-quiz-'+month+'-'+key;const previous=JSON.parse(localStorage.getItem(storageKey)||'{}');localStorage.setItem(storageKey,JSON.stringify({last:correct,best:Math.max(previous.best||0,correct),total:questions.length,date:new Date().toISOString()}));}
    })});
-   inner.append(item);
+   item.addEventListener('toggle',()=>{if(item.open)inner.querySelectorAll('details.quiz-item').forEach(other=>{if(other!==item)other.open=false;});});inner.append(item);
   });
   inner.append(score);
   const retry=document.createElement('button');retry.type='button';retry.className='btn secondary';retry.textContent='Ricomincia il quiz';retry.onclick=()=>section.replaceWith(build(title,questions,key));inner.append(retry);
