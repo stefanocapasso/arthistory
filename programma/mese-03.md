@@ -156,10 +156,6 @@ David, **Giuramento degli Orazi** · **Morte di Marat**
 
 # Verifica di fine mese
 
-La **verifica a risposta multipla**, con immagini, spiegazione immediata e ripasso degli errori, compare qui sotto automaticamente nel sito.
-
-## Portfolio pratico
-<!-- task:final-portfolio -->
-- [ ] Scelgo due esperimenti pratici e registro brevemente problema, scelta formale e risultato.
+Il **quiz interattivo finale** viene caricato automaticamente qui, con domande a risposta multipla, immagini e correzione immediata.
 
 <!-- study-tools:final -->
