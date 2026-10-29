@@ -1,0 +1,24 @@
+
+# Cache, file locali e segreti: esclusi dal caricamento su GitHub (29/10/2026)
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.cache/
+*.egg-info/
+.env
+.env.*
+.dev.vars
+.dev.vars.*
+.wrangler/
+.vercel/
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+*.tmp
