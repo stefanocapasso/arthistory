@@ -12,10 +12,10 @@ Comprendere perché dopo Leonardo, Michelangelo e Raffaello alcuni artisti cerca
 
 ## Dove studiare
 <!-- task:w1-read1 -->
-- [ ] [Smarthistory — Mannerism, an introduction](https://smarthistory.org/mannerism-an-introduction/)
+- [ ] [Smarthistory — Mannerism, an introduction](https://smarthistory.org/mannerism-introduction/)
 
 <!-- task:w1-read2 -->
-- [ ] [Smarthistory — Pontormo, Entombment](https://smarthistory.org/pontormo-entombment/)
+- [ ] [Smarthistory — Pontormo, Entombment](https://smarthistory.org/jacopo-pontormo-entombment-or-deposition-from-the-cross/)
 
 <!-- task:w1-read3 -->
 - [ ] [Smarthistory — Parmigianino, Madonna of the Long Neck](https://smarthistory.org/parmigianino-madonna-of-the-long-neck/)
