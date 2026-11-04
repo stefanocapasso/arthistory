@@ -1,8 +1,8 @@
-# Mese 3 — Dal Manierismo al Neoclassicismo: l'arte tra il Cinquecento e il Settecento
+# Mese 3 — Manierismo e Barocco: Italia, Fiandre, Paesi Bassi, Spagna e Francia
 
 **Durata:** quattro settimane · **Carico consigliato:** 5–7 ore per settimana.
 
-Questo mese attraversa circa tre secoli. Le correnti studiate **non** sono quattro stili chiusi che si sostituiscono ordinatamente: coesistono, si trasformano in aree geografiche diverse e rispondono a committenze differenti. Le date servono per collocare i fenomeni, non per pretendere che ogni artista lavori nello stesso modo.
+Questo mese non pretende di esaurire l'età moderna in quattro settimane. Dedichiamo la prima al Manierismo e tre settimane al **Barocco del Seicento**, studiandone pluralità geografica, funzione sociale, differenti mezzi espressivi e idee del tempo. Il Rococò e il Neoclassicismo passano al mese 4, insieme all'Illuminismo e alla cultura settecentesca.
 
 ## Metodo di studio del mese
 
@@ -87,7 +87,7 @@ Pontormo disarticola il peso e lo spazio per costruire un **dramma di gruppo**; 
 
 ---
 
-# Settimana 2 — Il Barocco: l'opera coinvolge fisicamente e psicologicamente lo spettatore
+# Settimana 2 — Barocco I: Roma, naturalismo, immagini religiose e teatralità
 
 ## Definizione e contesto storico
 
@@ -142,6 +142,18 @@ Realizzata nella cappella Cornaro della chiesa romana di Santa Maria della Vitto
 
 Caravaggio costruisce il coinvolgimento **dentro la superficie pittorica**; Artemisia concentra tutta l'azione sullo **sforzo dei corpi**; Bernini estende la scena a **architettura e luce reale**. «Barocco = teatralità» è soltanto un'etichetta; questi sono tre meccanismi concreti.
 
+## Filosofia e idee del tempo — primo orientamento seicentesco
+
+Il Seicento vede convivere **scienza nuova, controversie teologiche e riflessioni sul metodo della conoscenza**. Il processo a Galileo (1633) e il *Discorso sul metodo* di **Cartesio** (1637) appartengono alla stessa epoca degli artisti barocchi, ma ciò non significa che Caravaggio o Bernini stiano traducendo Cartesio in immagini. Cartesio imposta il problema della certezza e del rapporto tra **mente e corpo**; Galileo sviluppa pratiche di osservazione e argomentazione matematica. La pittura di Caravaggio, per contrasto, richiama la forza della percezione sensibile e dell'evento corporeo. Questo è **un confronto interpretativo**, non un rapporto causale documentato.
+
+Per contestualizzare il Barocco romano è altrettanto importante capire il problema delle **immagini sacre dopo il Concilio di Trento**. Non esiste una prescrizione conciliare che imponga il tenebrismo: il ruolo delle immagini dipende da ordini religiosi, committenti, collocazione, decorum e funzione devozionale.
+
+<!-- optional:w2-phil-more -->
+- [ ] **Filosofia:** leggi **soltanto l'introduzione** di [Stanford Encyclopedia of Philosophy — René Descartes](https://plato.stanford.edu/entries/descartes/), concentrandoti su dubbio metodico, ragione e dualismo mente-corpo. Non è un compito da completare integralmente.
+
+<!-- optional:w2-reading-context -->
+- [ ] **Approfondimento:** confronta in [Smarthistory — *Et in Arcadia Ego* di Poussin](https://smarthistory.org/nicolas-poussin-et-in-arcadia-ego/) la risposta classicista francese all'espressione drammatica romana. Questa lettura anticipa la quarta settimana ed è facoltativa.
+
 ## Riepilogo ragionato
 
 - **Definizione:** il Barocco comprende linguaggi diversi del Seicento; è improprio attribuirgli un'estetica unica.
@@ -178,182 +190,206 @@ Caravaggio costruisce il coinvolgimento **dentro la superficie pittorica**; Arte
 
 ---
 
-# Settimana 3 — Il Rococò: il piacere come linguaggio sociale
+# Settimana 3 — Barocco II: Fiandre e Repubblica olandese, committenza e mercati diversi
 
-## Definizione: «Rococò» non vuol dire semplicemente decorazione
+## Le due aree non sono intercambiabili
 
-Il termine **Rococò** designa un orientamento culturale e artistico diffusosi soprattutto nella Francia della **prima metà del Settecento**, e poi in altre aree europee, nella pittura, nella scultura e negli interni. Deriva da *rocaille*: l'ornamentazione con conchiglie, rocce e forme irregolari usate in grotte artificiali, giardini e decorazioni architettoniche. Anche questo nome viene sistematizzato dalla critica successiva.
+Nel Seicento i Paesi Bassi meridionali, con **Anversa**, rimangono prevalentemente cattolici e politicamente legati alla monarchia asburgica spagnola; le **Province Unite**, fra cui Amsterdam e Delft, si costituiscono come repubblica indipendente, con forte presenza di confessioni riformate e di un mercato urbano della pittura. La separazione è legata ai conflitti politici e religiosi di lungo periodo culminati nella Guerra degli ottant'anni (1568–1648). Non equivale però alla formula «al Sud si dipingono solo santi, al Nord solo borghesi»: entrambe le realtà sono molto più varie.
 
-Dopo la morte di **Luigi XIV nel 1715**, parte della vita aristocratica francese si sposta verso ambienti di conversazione e rappresentanza più privati rispetto al cerimoniale della corte di Versailles. Questo mutamento favorisce, fra altre cose, opere legate allo svago, alla seduzione, al mito galante e a un'eleganza meno monumentale. È sbagliato pensare che tutto il Settecento sia Rococò: convivono linguaggi diversi e cresce anche la critica morale dell'arte galante.
+Questa differenza è decisiva per la **funzione delle immagini**. Un'enorme pala d'altare cattolica destinata a una cattedrale, un ritratto collettivo commissionato da una milizia cittadina e un quadro di interni da collezione privata non sono tre varianti dello stesso problema. Destinatari, formato, soggetto e condizioni dell'osservazione influenzano le scelte formali. Anche il termine *Barocco* deve quindi essere impiegato con cautela: raggruppa produzioni che non condividono tutte teatralità o forti contrasti di luce.
 
-Sul piano formale ricorrono **linee curve, asimmetrie, contrasti cromatici delicati, superfici animate e movimenti leggeri**. Ma, di nuovo, la forma va collegata al soggetto e soprattutto alla **destinazione sociale** dell'opera.
+## Opera 1 — Rubens, *L'innalzamento della croce* (1610–1611)
 
-## Opera 1 — Watteau: *Pellegrinaggio a Citera*
+<figure class="lesson-artwork"><a href="https://commons.wikimedia.org/wiki/File:Peter%20Paul%20Rubens%20-%20Raising%20of%20the%20Cross%20-%201610.jpg" target="_blank" rel="noopener noreferrer"><img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Peter%20Paul%20Rubens%20-%20Raising%20of%20the%20Cross%20-%201610.jpg?width=850" loading="lazy" alt="Peter Paul Rubens, L'innalzamento della croce, 1610–1611, Cattedrale di Nostra Signora, Anversa; veduta del trittico" onerror="this.style.display='none';this.parentElement.insertAdjacentText('beforeend','Apri la scheda immagine su Wikimedia Commons')"></a><figcaption>Peter Paul Rubens, L'innalzamento della croce, 1610–1611, Cattedrale di Nostra Signora, Anversa; veduta del trittico — <a target="_blank" rel="noopener noreferrer" href="https://commons.wikimedia.org/wiki/File:Peter%20Paul%20Rubens%20-%20Raising%20of%20the%20Cross%20-%201610.jpg">riproduzione e crediti</a></figcaption></figure>
 
-<figure class="lesson-artwork">
-<a href="https://commons.wikimedia.org/wiki/File:The%20Embarktion%20for%20Cythera.jpg" target="_blank" rel="noopener noreferrer"><img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Embarktion%20for%20Cythera.jpg?width=850" alt="Antoine Watteau, Pellegrinaggio a Citera, 1717, Parigi, Louvre." loading="lazy" onerror="this.style.display='none';this.parentElement.insertAdjacentText('beforeend','Apri l’immagine su Wikimedia Commons')" /></a>
-<figcaption>Antoine Watteau, *Pellegrinaggio a Citera*, 1717, Parigi, Louvre. <a href="https://commons.wikimedia.org/wiki/File:The%20Embarktion%20for%20Cythera.jpg" target="_blank" rel="noopener noreferrer">Apri la riproduzione ad alta risoluzione</a>.</figcaption>
-</figure>
+Un **trittico** è un'opera costituita da tre pannelli: uno centrale e due laterali, spesso incernierati. Rubens ricorre a questo formato tradizionale, ma lo carica di un'energia fisica inusuale. Al centro, uomini muscolosi sollevano la croce su cui Cristo è già inchiodato; l'azione attraversa lo spazio in una grande **diagonale ascendente**.
 
-Antoine Watteau realizza nel **1717** il dipinto associato alla sua ammissione all'Accademia reale francese. L'opera contribuisce a definire il genere della **fête galante**, con figure eleganti all'aperto in situazioni d'incontro e corteggiamento.
+**Composizione.** La massa dei corpi sembra fare forza contro il peso della croce: braccia che tirano, spalle che spingono, gambe puntate al suolo. Non è una descrizione statica del sacrificio; l'osservatore segue visivamente uno sforzo collettivo. Il contrasto fra corpi illuminati e fondi più scuri modella i volumi, ma è la **direzione delle forze** a dominare l'opera.
 
-**Come si legge.** Da destra verso sinistra, coppie di amanti sono disposte secondo gesti progressivi: una figura si piega, un'altra si alza, un'altra ancora si allontana. Putti, drappi e paesaggio accompagnano questo fluire. L'insieme suggerisce un passaggio nel tempo, pur essendo una singola immagine fissa.
+**Contesto.** Rubens conosce la pittura italiana e rielabora la monumentalità di Michelangelo, il colore veneto e alcuni effetti drammatici del naturalismo. Il risultato è pensato per un grande pubblico ecclesiastico, su una scala irrealizzabile per un piccolo quadro da abitazione. Studiare il trittico completo, non soltanto il pannello centrale, aiuta a capire come l'episodio coinvolga figure e reazioni diverse.
 
-**Un'ambiguità centrale.** Citera è legata al culto di Venere, ma la direzione del viaggio è oggetto di discussione. Le coppie stanno andando sull'isola o la stanno lasciando? La risposta non è inequivocabile. Watteau costruisce un'atmosfera in cui festa, desiderio e malinconia convivono.
+## Opera 2 — Rembrandt, *La ronda di notte* (1642)
 
-## Opera 2 — Boucher: *Trionfo di Venere*
+<figure class="lesson-artwork"><a href="https://commons.wikimedia.org/wiki/File:The%20Night%20Watch.jpg" target="_blank" rel="noopener noreferrer"><img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Night%20Watch.jpg?width=850" loading="lazy" alt="Rembrandt, La ronda di notte, 1642, Rijksmuseum, Amsterdam" onerror="this.style.display='none';this.parentElement.insertAdjacentText('beforeend','Apri la scheda immagine su Wikimedia Commons')"></a><figcaption>Rembrandt, La ronda di notte, 1642, Rijksmuseum, Amsterdam — <a target="_blank" rel="noopener noreferrer" href="https://commons.wikimedia.org/wiki/File:The%20Night%20Watch.jpg">riproduzione e crediti</a></figcaption></figure>
 
-<figure class="lesson-artwork">
-<a href="https://commons.wikimedia.org/wiki/File:Fran%C3%A7ois%20Boucher%20-%20The%20Triumph%20of%20Venus%20-%20Google%20Art%20Project.jpg" target="_blank" rel="noopener noreferrer"><img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Fran%C3%A7ois%20Boucher%20-%20The%20Triumph%20of%20Venus%20-%20Google%20Art%20Project.jpg?width=850" alt="François Boucher, Trionfo di Venere, 1740, Stoccolma, Nationalmuseum." loading="lazy" onerror="this.style.display='none';this.parentElement.insertAdjacentText('beforeend','Apri l’immagine su Wikimedia Commons')" /></a>
-<figcaption>François Boucher, *Trionfo di Venere*, 1740, Stoccolma, Nationalmuseum. <a href="https://commons.wikimedia.org/wiki/File:Fran%C3%A7ois%20Boucher%20-%20The%20Triumph%20of%20Venus%20-%20Google%20Art%20Project.jpg" target="_blank" rel="noopener noreferrer">Apri la riproduzione ad alta risoluzione</a>.</figcaption>
-</figure>
+Il titolo tradizionale è ingannevole: non si tratta propriamente di una pattuglia notturna. È un **ritratto di gruppo** di membri di una compagnia della milizia civica di Amsterdam. Il dipinto, oggi detto *Ronda di notte*, rappresenta il capitano Frans Banning Cocq e il tenente Willem van Ruytenburch insieme agli altri membri della compagnia.
 
-François Boucher realizza nel **1740** una scena mitologica in cui Venere è circondata da figure nude, amorini, acqua, nuvole e stoffe. Nel dipinto il mito non funziona soprattutto come insegnamento morale; offre l'occasione per una grande **invenzione decorativa e sensuale**.
+**La grande innovazione.** Molti ritratti collettivi precedenti distribuiscono le figure in file o gruppi relativamente regolari. Rembrandt introduce la sensazione di un'azione in corso: il capitano impartisce un ordine, il tenente è fortemente illuminato, i miliziani sembrano disporsi in movimento. La luce costruisce **gerarchie visive** che non coincidono semplicemente con la posizione dei personaggi.
 
-**Composizione.** I corpi non sono organizzati in gruppi rigidamente separati, ma costruiscono curve e passaggi continui. La luce modella incarnati perlacei e tessuti, creando superfici morbide. La densità delle figure non produce necessariamente dramma: permette all'occhio di muoversi in un insieme elegante.
+**Il problema della committenza.** Il quadro è destinato alla memoria e alla rappresentanza di una corporazione civica. Perciò la domanda corretta non è soltanto «perché usa il chiaroscuro?», ma «come si concilia l'energia narrativa con il riconoscimento degli individui che hanno pagato per essere ritratti?». Osserva il contrasto fra la figura del capitano, il tenente chiaro, il gruppo retrostante e la figura luminosa della bambina, ricca di significati associati alla compagnia.
 
-**Confronto con Watteau.** Watteau distribuisce le figure come tappe di una storia aperta; Boucher usa soprattutto la relazione fra masse, tonalità e movimento per costruire un'esperienza visiva.
+## Opera 3 — Vermeer, *L'arte della pittura* (circa 1666–1668)
 
-## Opera 3 — Fragonard: *L'altalena*
+<figure class="lesson-artwork"><a href="https://commons.wikimedia.org/wiki/File:The%20Art%20of%20Painting.jpg" target="_blank" rel="noopener noreferrer"><img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Art%20of%20Painting.jpg?width=850" loading="lazy" alt="Johannes Vermeer, L'arte della pittura, circa 1666–1668, Kunsthistorisches Museum, Vienna" onerror="this.style.display='none';this.parentElement.insertAdjacentText('beforeend','Apri la scheda immagine su Wikimedia Commons')"></a><figcaption>Johannes Vermeer, L'arte della pittura, circa 1666–1668, Kunsthistorisches Museum, Vienna — <a target="_blank" rel="noopener noreferrer" href="https://commons.wikimedia.org/wiki/File:The%20Art%20of%20Painting.jpg">riproduzione e crediti</a></figcaption></figure>
 
-<figure class="lesson-artwork">
-<a href="https://commons.wikimedia.org/wiki/File:Fragonard%20-%20swing.jpg" target="_blank" rel="noopener noreferrer"><img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Fragonard%20-%20swing.jpg?width=850" alt="Jean-Honoré Fragonard, L'altalena, 1767, Londra, Wallace Collection." loading="lazy" onerror="this.style.display='none';this.parentElement.insertAdjacentText('beforeend','Apri l’immagine su Wikimedia Commons')" /></a>
-<figcaption>Jean-Honoré Fragonard, *L'altalena*, 1767, Londra, Wallace Collection. <a href="https://commons.wikimedia.org/wiki/File:Fragonard%20-%20swing.jpg" target="_blank" rel="noopener noreferrer">Apri la riproduzione ad alta risoluzione</a>.</figcaption>
-</figure>
+Il dipinto mostra un artista di spalle davanti alla modella, in uno studio arredato con oggetti precisi: una tenda pesante in primo piano, una carta geografica sul fondo, una lampada e un grande pavimento a disegni geometrici. La modella reca attributi normalmente collegati a **Clio, musa della storia**; per questo il quadro non è una semplice veduta di un atelier.
 
-Nel quadro del **1767**, conservato alla Wallace Collection di Londra, una giovane donna vola sull'altalena in un giardino fitto di vegetazione. Un uomo nascosto la osserva dal basso, mentre un altro aziona l'altalena. La scarpetta che vola e una statua con il dito sulle labbra accentuano le allusioni del soggetto.
+**Come opera lo spazio.** La tenda si apre come un sipario, ma l'ambiente non è teatrale nel senso di Bernini. Le superfici ricevono una luce morbida e differenziata, mentre l'ordinamento prospettico produce un luogo credibile e attentamente costruito. Lo spettatore entra in un ambiente privato e assiste alla rappresentazione del **fare pittura**.
 
-**La composizione.** Le diagonali delle corde dirigono l'occhio verso la figura centrale illuminata. Il rosa dell'abito contrasta con i verdi profondi del giardino; il movimento sembra continuare negli alberi e nei drappi. Il giovane è parzialmente nascosto: per capire l'episodio lo spettatore deve scoprire ciò che la scena tiene in disparte.
+**Perché è importante inserirlo nel Seicento?** Perché impedisce di credere che l'arte del periodo si riduca a torsioni e pathos. In una società con un articolato mercato di dipinti, l'interno domestico, la vita quotidiana, la conoscenza e lo statuto della pittura possono diventare soggetti primari.
 
-**Il significato sociale.** Il soggetto galante e malizioso è costruito per un pubblico ristretto in un ambiente privato. Non avrebbe avuto la stessa funzione di un grande quadro celebrativo esposto in una chiesa o in una sala pubblica.
+## Filosofia e idee del tempo — conoscere attraverso l'osservazione
 
-## Rococò e Illuminismo non sono sinonimi
+Nel Seicento si articolano approcci differenti alla conoscenza. **Francis Bacon** aveva dato rilievo al metodo induttivo e alla critica dei pregiudizi; **Cartesio** cerca princìpi di certezza attraverso il dubbio e il ragionamento. Non bisogna opporre meccanicamente «ragione francese» e «occhio olandese»: è un confronto utile solo se dichiarato come **analogia**, non come causa diretta delle opere.
 
-Nel Settecento si diffondono anche le idee dell'**Illuminismo**, con riflessioni sulla ragione, sulla critica sociale, sulla conoscenza e sul rapporto fra individuo e istituzioni. È un fenomeno intellettuale ampio, non un singolo stile artistico. Rococò e Illuminismo **possono convivere nello stesso contesto cronologico**; in altri casi le critiche morali al lusso e alla frivolezza dell'aristocrazia colpiscono proprio l'arte galante. Non esiste una relazione automatica fra una filosofia e una scelta di pennellata.
+Una questione comune all'arte e alla cultura scientifica è **che cosa renda affidabile un'apparenza**. Rembrandt dirige e altera la visibilità dei soggetti di un ritratto; Vermeer costruisce un'immagine che sembra osservata ma è organizzata con estrema precisione. La pittura è nello stesso tempo osservazione della realtà e costruzione artificiale. Da questa tensione nasceranno molte discussioni successive sulla conoscenza.
 
-## Riepilogo ragionato
+<!-- task:w3b-phil -->
+- [ ] Leggi la **sola introduzione** della [Stanford Encyclopedia — René Descartes](https://plato.stanford.edu/entries/descartes/) e scrivi tre righe distinguendo: percezione, dubbio e certezza. Questo è un quadro culturale parallelo, non la spiegazione di un quadro olandese.
 
-- **Rococò:** orientamenti figurativi e decorativi settecenteschi, particolarmente legati alla cultura aristocratica francese; il termine deriva da *rocaille*.
-- **Watteau:** inventa una scena galante con movimento progressivo delle coppie e significato volutamente aperto.
-- **Boucher:** valorizza il mito come spettacolo di corpi, curve, colore e sensualità.
-- **Fragonard:** usa diagonali, luce e occultamento per creare un racconto galante, allusivo e socialmente situato.
-- **Differenza da Barocco e Illuminismo:** le tre parole non descrivono la stessa cosa; una riguarda molte produzioni seicentesche, una un gusto artistico settecentesco e l'altra un movimento intellettuale.
+## Riepilogo con risposte, non domande lasciate in sospeso
 
-## Approfondimenti e attività
+- **Perché Rubens e Rembrandt producono immagini tanto diverse?** Rubens progetta un grande trittico devozionale per una chiesa cattolica; Rembrandt trasforma una commissione civica in un ritratto collettivo dinamico. Cambiano soprattutto funzione, pubblico e forma.
+- **Che cosa unisce i due artisti?** Entrambi organizzano il racconto attraverso corpi e luce, ma Rubens accentua la tensione della diagonale ascendente mentre Rembrandt introduce il tempo dell'azione in un ritratto.
+- **Perché Vermeer non è un'eccezione trascurabile?** Il suo dipinto mostra un altro centro della cultura del Seicento: la riflessione sulla rappresentazione e sul valore della pittura in uno spazio privato.
+- **Che cos'è il mercato pittorico olandese?** Una pluralità di scambi e committenze per ritratti, paesaggi, interni e altri generi, non un'unica istituzione religiosa o principesca.
+- **Che rapporto ha tutto questo con la filosofia?** Si possono confrontare problemi di visione, percezione e certezza, ma non attribuire a un filosofo l'origine stilistica di un'opera senza prove storiche.
 
-<!-- task:w3-read1 -->
-- [ ] Leggi [Metropolitan Museum — The Rococo Style](https://www.metmuseum.org/toah/hd/roco/hd_roco.htm).
+## Materiali essenziali guidati
 
-<!-- task:w3-read2 -->
-- [ ] Osserva [Watteau, *Pellegrinaggio a Citera*](https://commons.wikimedia.org/wiki/File:The_Embarktion_for_Cythera.jpg) ingrandendo le coppie in sequenza.
+<!-- task:w3b-read1 -->
+- [ ] [Rubens, *L'innalzamento della croce* — scheda della Cattedrale di Anversa](https://www.dekathedraal.be/en/rubens-elevation-cross): leggi la spiegazione osservando il trittico intero, quindi torna al pannello centrale.
 
-<!-- task:w3-read3 -->
-- [ ] [Smarthistory — Fragonard, L'altalena](https://smarthistory.org/fragonard-the-swing/).
+<!-- task:w3b-read2 -->
+- [ ] [Rembrandt, *La ronda di notte* — Smarthistory](https://smarthistory.org/rembrandt-the-night-watch/): è essenziale il paragrafo sulla milizia civica e la costruzione dinamica del ritratto.
 
-<!-- optional:w3-phil -->
-- [ ] Leggi soltanto l'introduzione della [Stanford Encyclopedia of Philosophy — Enlightenment](https://plato.stanford.edu/entries/enlightenment/).
+<!-- task:w3b-read3 -->
+- [ ] Osserva la riproduzione di [Vermeer, *L'arte della pittura* — Wikimedia Commons](https://commons.wikimedia.org/wiki/File:The_Art_of_Painting.jpg). Identifica tenda, carta geografica, pittore e modella e confronta la loro disposizione con l'analisi precedente.
 
-<!-- task:w3-analysis -->
-- [ ] In circa 200 parole distingui il rapporto fra spettatore e soggetto in Watteau e Fragonard, citando almeno due dettagli visibili di ogni dipinto.
+## Approfondimenti consigliati, non obbligatori
 
-<!-- task:w3-practice -->
-- [ ] Fotografa una scena due volte: una versione rende tutto evidente; la seconda nasconde un dettaglio narrativo. Osserva come cambia la lettura.
+<!-- optional:w3b-rec1 -->
+- [ ] Studia il [capitolo specifico sulle pitture olandesi del Seicento del Metropolitan Museum](https://www.metmuseum.org/toah/), scegliendo soltanto l'argomento pertinente al mercato dei quadri di genere; la pagina generale non è un compito.
 
-<!-- task:w3-check -->
-- [ ] So definire il Rococò senza ridurlo a «arte leggera» e distinguere pittura galante, mito decorativo e Illuminismo.
+<!-- optional:w3b-rec2 -->
+- [ ] Confronta la pittura di Rembrandt con una sua incisione o un autoritratto, osservando la diversa funzione del mezzo grafico.
+
+## Analisi e pratica
+
+<!-- task:w3b-analysis -->
+- [ ] Prepara una tabella con tre righe (Rubens, Rembrandt, Vermeer) e cinque colonne: **committente/destinazione, soggetto, scala, luce, dispositivo che guida lo sguardo**. Ogni casella deve contenere un elemento concreto già studiato.
+
+<!-- task:w3b-practice -->
+- [ ] Fotografa una stessa situazione come **ritratto collettivo** e come **interno privato**. Annota come cambiano distanza, numero di figure, fonti luminose e rapporto con l'osservatore.
 
 <!-- study-tools:w3 -->
 
 ---
 
-# Settimana 4 — Neoclassicismo: l'antico al servizio delle domande moderne
+# Settimana 4 — Barocco III: Spagna, classicismo francese, architettura romana e pensiero del Seicento
 
-## Definizione e cronologia
+## Non esiste un solo «stile barocco» europeo
 
-Per **Neoclassicismo** si intende un ampio orientamento che si sviluppa dalla **seconda metà del Settecento** e prosegue nel primo Ottocento, proponendo nuovi rapporti con l'arte greca e romana. Non significa copiare semplicemente statue e templi: significa assumere l'antico come modello visivo, morale, politico o culturale per **parlare del presente**.
+Il Seicento è anche il secolo della monarchia spagnola, di Luigi XIV in Francia, delle trasformazioni religiose in Europa e di una crescente cultura scientifica. In architettura e pittura si producono soluzioni difficili da ridurre a un'unica regola stilistica. **Velázquez** riflette su chi guarda e su chi è rappresentato; **Poussin** costruisce una scena classica meditativa; **Borromini** organizza la percezione del corpo nello spazio con geometrie ardite. Considerare queste differenze impedisce di identificare un intero secolo con il contrasto violento fra luce e ombra.
 
-Un ruolo importante hanno gli scavi di **Ercolano e Pompei**, la circolazione di collezioni e riproduzioni e gli scritti di **Johann Joachim Winckelmann**. Le sue riflessioni sulla bellezza ideale e sulla scultura greca contribuiscono a ridefinire il giudizio moderno sull'antichità. Bisogna distinguere questa nuova cultura archeologica e antiquaria dal recupero quattrocentesco dell'antico.
+## Opera 1 — Velázquez, *Las Meninas* (1656)
 
-Le opere neoclassiche impiegano spesso contorni leggibili, composizioni ordinate, gesti chiari e forme idealizzate; non è tuttavia corretto dire che siano tutte fredde, immobili o prive di emozione. Inoltre il medesimo patrimonio classico può essere utilizzato da **committenti monarchici, repubblicani e imperiali**: l'orientamento artistico non coincide con un unico programma politico.
+<figure class="lesson-artwork"><a href="https://commons.wikimedia.org/wiki/File:Las%20Meninas%20(1656)%2C%20by%20Velazquez.jpg" target="_blank" rel="noopener noreferrer"><img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Las%20Meninas%20(1656)%2C%20by%20Velazquez.jpg?width=850" loading="lazy" alt="Diego Velázquez, Las Meninas, 1656, Museo del Prado, Madrid" onerror="this.style.display='none';this.parentElement.insertAdjacentText('beforeend','Apri la scheda immagine su Wikimedia Commons')"></a><figcaption>Diego Velázquez, Las Meninas, 1656, Museo del Prado, Madrid — <a target="_blank" rel="noopener noreferrer" href="https://commons.wikimedia.org/wiki/File:Las%20Meninas%20(1656)%2C%20by%20Velazquez.jpg">riproduzione e crediti</a></figcaption></figure>
 
-## Opera 1 — David: *Il giuramento degli Orazi* (prima della Rivoluzione)
+In una sala del palazzo reale spagnolo è raffigurata l'infanta Margherita con le sue dame, altri membri della corte e **lo stesso pittore**, che compare a sinistra davanti a una grande tela. Sul fondo uno specchio riflette i sovrani Filippo IV e Marianna d'Austria, mentre una figura si staglia sulla soglia di una porta aperta.
 
-<figure class="lesson-artwork">
-<a href="https://commons.wikimedia.org/wiki/File:%22Oath%20of%20the%20Horatii%22%20by%20Jacques-Louis%20David.jpg" target="_blank" rel="noopener noreferrer"><img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/%22Oath%20of%20the%20Horatii%22%20by%20Jacques-Louis%20David.jpg?width=850" alt="Jacques-Louis David, Il giuramento degli Orazi, 1784, Parigi, Louvre." loading="lazy" onerror="this.style.display='none';this.parentElement.insertAdjacentText('beforeend','Apri l’immagine su Wikimedia Commons')" /></a>
-<figcaption>Jacques-Louis David, *Il giuramento degli Orazi*, 1784, Parigi, Louvre. <a href="https://commons.wikimedia.org/wiki/File:%22Oath%20of%20the%20Horatii%22%20by%20Jacques-Louis%20David.jpg" target="_blank" rel="noopener noreferrer">Apri la riproduzione ad alta risoluzione</a>.</figcaption>
-</figure>
+**Dove si trova il soggetto vero?** La scena non ha una sola risposta: rappresenta un momento di vita di corte ma anche l'atto di dipingere, il ruolo sociale dell'artista e la posizione del re e della regina. Lo sguardo di varie figure si rivolge fuori dal quadro, verso un luogo che coincide approssimativamente con quello dello spettatore.
 
-Jacques-Louis David termina il dipinto nel **1784** ed espone l'opera al **Salon del 1785**: **quattro anni prima della Rivoluzione francese del 1789**. È un dato essenziale. La scena evoca la Roma leggendaria: tre fratelli Orazi giurano di combattere per la città, mentre i legami con la famiglia avversaria rendono doloroso il conflitto.
+**Spazio e luce.** La profondità della stanza è costruita da prospettiva, piani successivi e differenze luminose. La porta sul fondo conduce l'occhio verso un punto profondo; lo specchio, invece, riporta l'attenzione sullo spazio **davanti** al dipinto. Anche il grande quadro del quale vediamo il retro è un elemento decisivo: ciò che il pittore rappresentato sta dipingendo ci viene sottratto. La tela rende visibile e nello stesso tempo problematico il rapporto fra realtà, immagine e potere.
 
-**Composizione e significato.** Tre arcate dividono lo sfondo in zone chiare. I fratelli a sinistra tendono le braccia verso le spade; il padre occupa il centro e le sostiene; le donne a destra sono raccolte in pose curve e abbattute. Le linee tese degli uomini contrastano con quelle piegate delle donne, rendendo visibile la tensione fra **dovere pubblico e sofferenza privata**.
+## Opera 2 — Poussin, *Et in Arcadia ego* (circa 1637–1638)
 
-**La novità non è soltanto il soggetto romano.** Architettura spoglia, luce controllata, gruppi separati e gesti molto leggibili producono una narrazione morale senza dispersione decorativa. L'opera acquisirà successivamente risonanze politiche rivoluzionarie, ma sarebbe anacronistico descriverla come propaganda ufficiale di un evento non ancora avvenuto.
+<figure class="lesson-artwork"><a href="https://commons.wikimedia.org/wiki/File:Nicolas%20Poussin%20-%20'Et%20in%20Arcadia%20Ego'%20-%20WGA18305.jpg" target="_blank" rel="noopener noreferrer"><img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Nicolas%20Poussin%20-%20'Et%20in%20Arcadia%20Ego'%20-%20WGA18305.jpg?width=850" loading="lazy" alt="Nicolas Poussin, Et in Arcadia ego, circa 1637–1638, Louvre, Parigi" onerror="this.style.display='none';this.parentElement.insertAdjacentText('beforeend','Apri la scheda immagine su Wikimedia Commons')"></a><figcaption>Nicolas Poussin, Et in Arcadia ego, circa 1637–1638, Louvre, Parigi — <a target="_blank" rel="noopener noreferrer" href="https://commons.wikimedia.org/wiki/File:Nicolas%20Poussin%20-%20'Et%20in%20Arcadia%20Ego'%20-%20WGA18305.jpg">riproduzione e crediti</a></figcaption></figure>
 
-## Opera 2 — David: *La morte di Marat* (durante la Rivoluzione)
+Quattro figure in abiti classicheggianti esaminano un'iscrizione su una tomba in un paesaggio idealizzato. L'**Arcadia** è un luogo poetico associato alla vita pastorale e a una condizione felice. Il contatto con una tomba introduce invece il pensiero della morte. L'identità della voce che pronuncia l'iscrizione latina è discussa: può essere interpretata come voce della morte o della persona sepolta.
 
-<figure class="lesson-artwork">
-<a href="https://commons.wikimedia.org/wiki/File:Death%20of%20Marat%20by%20David.jpg" target="_blank" rel="noopener noreferrer"><img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Death%20of%20Marat%20by%20David.jpg?width=850" alt="Jacques-Louis David, La morte di Marat, 1793, Bruxelles, Musées royaux des Beaux-Arts." loading="lazy" onerror="this.style.display='none';this.parentElement.insertAdjacentText('beforeend','Apri l’immagine su Wikimedia Commons')" /></a>
-<figcaption>Jacques-Louis David, *La morte di Marat*, 1793, Bruxelles, Musées royaux des Beaux-Arts. <a href="https://commons.wikimedia.org/wiki/File:Death%20of%20Marat%20by%20David.jpg" target="_blank" rel="noopener noreferrer">Apri la riproduzione ad alta risoluzione</a>.</figcaption>
-</figure>
+**Composizione.** I corpi sono collegati da gesti misurati: qualcuno legge con il dito la pietra, altri osservano o sembrano spiegare. Il monumento funebre dà stabilità al centro; nulla richiede un'esplosione emotiva. È una **meditazione sul tempo** costruita con forme e ritmi controllati.
 
-Nel **1793**, dopo l'assassinio di Jean-Paul Marat da parte di Charlotte Corday, David dipinge un'immagine commemorativa. Ora il pittore partecipa direttamente alla vita politica rivoluzionaria. Il quadro non è un resoconto neutrale: costruisce l'immagine pubblica di una vittima della causa giacobina.
+**Perché accostarlo al Barocco?** Proprio per non fare del Barocco un sinonimo di movimento estremo. Poussin opera nel Seicento ed è spesso associato al versante **classicista** della pittura francese. Il confronto con Bernini dimostra che l'epoca è attraversata da risposte diverse a problemi simili: corpo, visione, tempo, devozione o memoria.
 
-**Come è costruita la scena.** Il corpo di Marat emerge dalla vasca; la mano lascia cadere lo strumento della scrittura, mentre la lettera e il coltello permettono di riconoscere la vicenda. Il fondo superiore è vasto e scuro, quasi vuoto; gli oggetti sono pochissimi. La sottrazione di dettagli contribuisce all'intensità del racconto.
+## Opera 3 — Borromini, *San Carlo alle Quattro Fontane* (Roma, dal 1638)
 
-**Un riferimento visivo importante.** La posa del corpo può richiamare immagini religiose del Cristo morto. David rielabora una memoria figurativa molto ampia, non soltanto l'antichità classica, e trasforma un fatto recente in un'icona politica.
+<figure class="lesson-artwork"><a href="https://commons.wikimedia.org/wiki/File:San%20Carlo%20alle%20quattro%20fontane%20-%20interior.jpg" target="_blank" rel="noopener noreferrer"><img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/San%20Carlo%20alle%20quattro%20fontane%20-%20interior.jpg?width=850" loading="lazy" alt="Francesco Borromini, San Carlo alle Quattro Fontane: interno, Roma" onerror="this.style.display='none';this.parentElement.insertAdjacentText('beforeend','Apri la scheda immagine su Wikimedia Commons')"></a><figcaption>Francesco Borromini, San Carlo alle Quattro Fontane: interno, Roma — <a target="_blank" rel="noopener noreferrer" href="https://commons.wikimedia.org/wiki/File:San%20Carlo%20alle%20quattro%20fontane%20-%20interior.jpg">riproduzione e crediti</a></figcaption></figure>
 
-## Opera 3 — Canova: *Amore e Psiche giacenti*
+<figure class="lesson-artwork"><a href="https://commons.wikimedia.org/wiki/File:San%20Carlo%20alle%20Quattro%20Fontane%201%2C%20Rome.jpg" target="_blank" rel="noopener noreferrer"><img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/San%20Carlo%20alle%20Quattro%20Fontane%201%2C%20Rome.jpg?width=850" loading="lazy" alt="Francesco Borromini, San Carlo alle Quattro Fontane: geometria e luce della cupola" onerror="this.style.display='none';this.parentElement.insertAdjacentText('beforeend','Apri la scheda immagine su Wikimedia Commons')"></a><figcaption>Francesco Borromini, San Carlo alle Quattro Fontane: geometria e luce della cupola — <a target="_blank" rel="noopener noreferrer" href="https://commons.wikimedia.org/wiki/File:San%20Carlo%20alle%20Quattro%20Fontane%201%2C%20Rome.jpg">riproduzione e crediti</a></figcaption></figure>
 
-<figure class="lesson-artwork">
-<a href="https://commons.wikimedia.org/wiki/File:Psyche%20Revived%20by%20Cupid's%20Kiss.jpg" target="_blank" rel="noopener noreferrer"><img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Psyche%20Revived%20by%20Cupid's%20Kiss.jpg?width=850" alt="Antonio Canova, Amore e Psiche giacenti, 1787–1793, Parigi, Louvre." loading="lazy" onerror="this.style.display='none';this.parentElement.insertAdjacentText('beforeend','Apri l’immagine su Wikimedia Commons')" /></a>
-<figcaption>Antonio Canova, *Amore e Psiche giacenti*, 1787–1793, Parigi, Louvre. <a href="https://commons.wikimedia.org/wiki/File:Psyche%20Revived%20by%20Cupid's%20Kiss.jpg" target="_blank" rel="noopener noreferrer">Apri la riproduzione ad alta risoluzione</a>.</figcaption>
-</figure>
+Borromini lavora su un lotto urbano piccolo e irregolare per l'ordine dei **Trinitari**. La chiesa inizia a essere costruita nel 1638; facciata e decorazioni appartengono a fasi differenti. Nonostante lo spazio ridotto, l'architetto crea un ambiente di notevole complessità.
 
-Il gruppo marmoreo di **Antonio Canova**, realizzato fra **1787 e 1793** e conservato al Louvre, rappresenta il momento in cui Amore si avvicina a Psiche dopo il suo lungo sonno, dalla vicenda raccontata da Apuleio.
+**Pianta e percezione.** La pianta nasce dalla combinazione di figure geometriche articolate, con pareti che **avanzano e arretrano**. Colonne, nicchie e trabeazioni guidano lo sguardo e fanno sembrare lo spazio in movimento. L'apparente irregolarità non è casuale: deriva da un controllo geometrico rigoroso.
 
-**Composizione.** Braccia e volti formano un centro di attenzione molto preciso; ali e gambe disegnano diagonali che si incrociano. Il momento rappresentato non è il bacio già concluso, ma la **tensione che lo precede**. La struttura è dinamica, ma le superfici levigate e i passaggi armonici rendono il gesto misurato.
+**Cupola e luce.** I cassettoni cambiano figura e dimensione lungo la superficie della cupola, contribuendo all'effetto di elevazione. La luce entra nella parte alta e sembra alleggerire la copertura. È utile confrontare questo interno con il **Pantheon** già studiato nel mese 1: entrambi fanno della cupola una struttura decisiva, ma il Pantheon tende a una geometria unitaria e solenne, Borromini a un'articolazione complessa e ritmica.
 
-**Confronto con Bernini.** Anche Canova rappresenta un episodio intensamente emotivo: «Barocco = movimento, Neoclassicismo = immobilità» è dunque una contrapposizione sbagliata. Nell'*Estasi di santa Teresa* la scultura fa parte di una cappella progettata come scena teatrale; in Canova l'interazione dei due corpi e il rapporto fra le viste della scultura dominano l'esperienza.
+## Filosofia e idee del tempo — un asse indispensabile
 
-## Riepilogo ragionato
+**Cartesio (1596–1650)** pubblica il *Discorso sul metodo* (1637) e le *Meditazioni metafisiche* (1641): il dubbio viene usato per cercare una conoscenza certa, e il rapporto mente-corpo diventa un problema centrale. **Pascal (1623–1662)**, matematico e pensatore religioso, riflette sul limite della ragione, sulla fragilità umana e sull'esperienza della fede; i suoi *Pensieri* saranno pubblicati postumi (1670). **Spinoza (1632–1677)** propone nell'*Etica* (pubblicata nel 1677) un sistema razionale centrato su Dio o Natura e sulla comprensione degli affetti. Gli sviluppi scientifici di **Galileo, Keplero e Newton** trasformano, nel lungo Seicento, l'immagine della natura e i modi di descriverla.
 
-- **Neoclassicismo:** orientamento tardo-settecentesco e primo-ottocentesco che rielabora l'antico, con esiti formali e politici diversi.
-- **Winckelmann e archeologia:** nuove letture delle opere greche e romane modificano il gusto europeo; non si tratta di recuperare l'antico per la prima volta.
-- **David 1784–1785:** *Orazi* precede la Rivoluzione; la composizione rappresenta un conflitto morale attraverso gruppi e linee contrastanti.
-- **David 1793:** *Marat* nasce nel contesto rivoluzionario ed è un'immagine di commemorazione politica, non cronaca neutra.
-- **Canova:** il rapporto fra i due corpi costruisce un istante sospeso, mostrando che armonia classica e dinamismo non si escludono.
-- **Differenza dal Rococò:** non basta opporre «rigore» e «piacere»; occorre considerare contesto, committenti, destinatari e scelte visive.
+Questi autori non compongono una *filosofia del Barocco* unitaria. Li studiamo per collocare la pittura e l'architettura entro un orizzonte di problemi: **che cosa vediamo? come conosciamo? che rapporto esiste fra sensi, ragione e fede? quale ruolo hanno le passioni?** La pittura di Velázquez può diventare un efficace **confronto interpretativo** sul rapporto tra osservatore e rappresentazione; non è necessario né corretto affermare che il pittore abbia illustrato le *Meditazioni* di Cartesio.
 
-## Approfondimenti e attività
+<!-- task:w4b-phil1 -->
+- [ ] Leggi l'**introduzione** di [Stanford Encyclopedia — Descartes](https://plato.stanford.edu/entries/descartes/): individua il ruolo del dubbio e la distinzione fra mente e corpo.
 
-<!-- task:w4-read1 -->
-- [ ] [Smarthistory — David, Giuramento degli Orazi](https://smarthistory.org/jacques-louis-david-oath-of-the-horatii/).
+<!-- task:w4b-phil2 -->
+- [ ] Leggi l'**introduzione** di [Stanford Encyclopedia — Blaise Pascal](https://plato.stanford.edu/entries/pascal/): individua il rapporto fra riflessione scientifica, religione e limiti dell'uomo. Non leggere tutta la voce.
 
-<!-- task:w4-read2 -->
-- [ ] [Smarthistory — David, Morte di Marat](https://smarthistory.org/jacques-louis-david-death-of-marat/).
+## Riepilogo con collegamenti argomentati
 
-<!-- task:w4-read3 -->
-- [ ] [Metropolitan Museum — Neoclassicism](https://www.metmuseum.org/toah/hd/neoc_1/hd_neoc_1.htm).
+- **Las Meninas:** l'immagine tematizza la posizione dell'osservatore, il potere monarchico e il lavoro del pittore. Specchio, porta e tela vista dal retro creano relazioni spaziali complesse.
+- **Poussin:** mostra una possibilità classicista del Seicento, in cui l'emozione viene affidata alla contemplazione piuttosto che a un'azione violenta.
+- **Borromini:** fa della geometria e della luce **esperienze fisiche**; in un edificio che si visita, il corpo dello spettatore si muove realmente nello spazio.
+- **Filosofia:** Cartesio e Pascal rappresentano problemi differenti e non riducibili allo stile visivo. L'arte può metterli in dialogo, ma la relazione deve essere argomentata, non postulata.
+- **Barocco al termine del mese:** non è una formula visiva; è un universo storico di opere, strumenti e destinatari diversi: cattedrale, chiesa, corte, corporazione, casa, mercato pittorico, atelier.
 
-<!-- task:w4-analysis -->
-- [ ] Scrivi una breve scheda comparativa dei due David usando le date **1784** e **1793** e spiegando il diverso rapporto con la politica contemporanea.
+## Materiali essenziali guidati
 
-<!-- task:w4-practice -->
-- [ ] Crea un'inquadratura con tre gruppi che rappresentino scelte in conflitto. Usa la direzione delle linee e la disposizione dei corpi come David, senza copiare l'immagine.
+<!-- task:w4b-read1 -->
+- [ ] [Velázquez, *Las Meninas* — Smarthistory](https://smarthistory.org/diego-velazquez-las-meninas/): leggi la parte su specchio e posizione dello spettatore.
 
-<!-- task:w4-check -->
-- [ ] So spiegare origine, cronologia e pluralità del Neoclassicismo, distinguendo l'arte di David prima e durante la Rivoluzione.
+<!-- task:w4b-read2 -->
+- [ ] [Poussin, *Et in Arcadia ego* — Smarthistory](https://smarthistory.org/nicolas-poussin-et-in-arcadia-ego/): concentra la lettura sull'iscrizione, sul suo carattere ambiguo e sui gesti dei pastori.
+
+<!-- task:w4b-read3 -->
+- [ ] [Borromini, *San Carlo alle Quattro Fontane* — Smarthistory](https://smarthistory.org/borromini-san-carlo-alle-quattro-fontane/): confronta le immagini della pianta e della cupola con quelle presenti nel capitolo.
+
+## Approfondimenti consigliati
+
+<!-- optional:w4b-rec1 -->
+- [ ] Confronta l'interno di Borromini con l'*Estasi di santa Teresa* di Bernini: architettura e luce sono strumenti dell'esperienza religiosa in modi differenti.
+
+<!-- optional:w4b-rec2 -->
+- [ ] Riprendi i [*Pensieri* di Pascal: presentazione introduttiva nella Stanford Encyclopedia](https://plato.stanford.edu/entries/pascal/) e annota la differenza fra un problema teologico e una descrizione visiva.
+
+## Analisi, pratica e verifica
+
+<!-- task:w4b-analysis -->
+- [ ] Elabora 350–500 parole confrontando **Las Meninas**, **Et in Arcadia ego** e **San Carlo**. Usa queste categorie, già studiate: **destinazione, osservatore, geometria dello spazio, rapporto con la luce, idea del tempo**.
+
+<!-- task:w4b-practice -->
+- [ ] Scegli un interno e realizza un breve movimento di camera (30–45 secondi) in cui geometria, soglia e luce modifichino gradualmente l'esperienza dello spazio; spiega il parallelo con Borromini senza imitare la chiesa.
+
+<!-- task:w4b-check -->
+- [ ] So distinguere cinque culture artistiche del Seicento (Roma, Fiandre, Repubblica olandese, Spagna, Francia) mediante opere e funzioni precise; conosco la linea minima Cartesio–Pascal e i problemi della visione e della conoscenza.
 
 <!-- study-tools:w4 -->
 
 ---
 
-# Bilancio del mese — Ciò che devi aver capito
+# Bilancio del mese — Una mappa, non un inventario
 
-Il **Manierismo** comprende ricerche cinquecentesche che trasformano deliberatamente modelli illustri. Il **Barocco** del Seicento include tecniche diverse per coinvolgere lo spettatore e rendere percepibile un evento. Il **Rococò** dà forma anche al gusto galante e alla vita aristocratica settecentesca. Il **Neoclassicismo** costruisce nuovi rapporti fra antichità e presente, dalla virtù civica alla commemorazione politica, fino alla scultura idealizzata.
+Al termine del mese devi avere incontrato **il Manierismo e almeno tre mondi del Barocco**: la produzione romana devozionale, la pittura fiamminga di grande formato, le opere olandesi destinate a committenze civiche e private, le immagini della corte spagnola, il classicismo francese e le sperimentazioni architettoniche di Borromini. Il confronto è storico prima che stilistico: un dipinto per un altare, un ritratto per una milizia, un interno domestico e una chiesa non svolgono lo stesso compito.
 
-**Il criterio di confronto non è una parola isolata come «movimento» o «eleganza».** Per ciascuna opera devi poter indicare data, contesto di produzione, committente o destinatario quando noto, due o tre dispositivi formali concretamente visibili e l'effetto che producono sul significato.
+## Linea del tempo Arte ↔ Filosofia
 
-Nessun quiz a risposta multipla improvvisato: il riepilogo contiene già risposte e collegamenti fra le opere.
+| Data | Arte e cultura visiva | Idee e contesto |
+| --- | --- | --- |
+| circa 1525–1540 | Pontormo, Parmigianino, sperimentazioni manieriste | crisi politiche e religiose; fortuna dei grandi modelli rinascimentali |
+| 1599–1611 | Caravaggio a Roma; Rubens ad Anversa | eredità delle riforme cattolica e protestante |
+| 1637–1638 | Poussin e l'Arcadia; Borromini lavora a San Carlo | Cartesio, *Discorso sul metodo* (1637); Galileo e nuove scienze |
+| 1642–1656 | Rembrandt, *Ronda di notte*; Velázquez, *Las Meninas* | Cartesio, *Meditazioni* (1641); riflessione sulla certezza e sui sensi |
+| 1666–1677 | Vermeer, *Arte della pittura*; diffusione del classicismo e delle arti urbane | Pascal, *Pensieri* (1670, postumi); Spinoza, *Etica* (1677, postuma) |
+
+## Verifica finale storico-visiva e critica
+
+<!-- task:final-baroque-review -->
+- [ ] Scegli **quattro opere di almeno tre aree geografiche diverse** fra quelle effettivamente studiate. Per ciascuna: data approssimativa, luogo, destinatario o funzione, due scelte formali osservabili, confronto motivato con un'altra opera.
+
+<!-- optional:final-baroque-portfolio -->
+- [ ] **Portfolio:** seleziona uno dei lavori fotografici del mese e annota quale problema storico-visivo affronta e come lo approfondiresti.
+
+Il prossimo mese svilupperà il **Settecento: Rococò, Illuminismo, nascita di nuovi pubblici e Neoclassicismo**. Il Barocco non viene qui dichiarato esaurito: entrerà nuovamente in gioco quando torneremo sulla cultura moderna.
 
 <!-- study-tools:final -->
