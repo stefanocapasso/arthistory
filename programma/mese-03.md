@@ -54,6 +54,15 @@ La tavola fu commissionata nel **1534** per una cappella della chiesa di Santa M
 
 Pontormo disarticola il peso e lo spazio per costruire un **dramma di gruppo**; Parmigianino altera le proporzioni e la scala per ottenere un'**eleganza volutamente artificiosa**. Sono due modi differenti di rispondere al prestigio dei modelli classici. Per questo «Manierismo = figure allungate» non è una definizione: è soltanto l'osservazione di uno dei possibili sintomi formali.
 
+## Filosofia e idee del tempo — Umanesimo, crisi politica e riflessione sull'arte
+
+La sperimentazione manierista nasce in un ambiente culturale che ha ereditato l'**umanesimo del Quattrocento**, il prestigio degli studi classici e le discussioni rinascimentali sulla bellezza, la proporzione e la posizione dell'artista. Tuttavia l'invenzione stilistica di Pontormo o Parmigianino non può essere ridotta a una conseguenza del neoplatonismo. La storia dell'arte richiede documenti sulla committenza, confronti fra opere e osservazione formale.
+
+Un riferimento utile del primo Cinquecento è **Niccolò Machiavelli**, che riflette sul potere politico, sul conflitto e sulla fortuna. Il suo *Principe* viene scritto nel 1513 e pubblicato postumo nel 1532. Queste questioni convivono con le profonde trasformazioni politiche italiane ma **non spiegano direttamente** le proporzioni di un dipinto. Sul piano della teoria artistica, **Giorgio Vasari**, nelle *Vite* (1550; edizione ampliata 1568), contribuisce a costruire un racconto storico degli artisti e a valorizzare la loro *maniera*. Va distinta l'idea vasariana di maniera dalla categoria critica moderna di *Manierismo*.
+
+<!-- optional:w1-phil-more -->
+- [ ] **Contesto filosofico facoltativo:** leggi soltanto l'**introduzione** della [Stanford Encyclopedia of Philosophy — Niccolò Machiavelli](https://plato.stanford.edu/entries/machiavelli/). Fissa i termini *virtù*, *fortuna* e conflitto politico, senza stabilire un nesso causale automatico con i dipinti.
+
 ## Riepilogo ragionato
 
 - **Che cosa indica il termine?** Un insieme di ricerche del Cinquecento classificate a posteriori dagli storici, non un movimento unitario con regole comuni.
