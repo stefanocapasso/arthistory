@@ -36,7 +36,7 @@ Sul piano formale ricorrono **linee curve, asimmetrie, contrasti cromatici delic
 
 <figure class="lesson-artwork">
 <a href="https://commons.wikimedia.org/wiki/File:The%20Embarktion%20for%20Cythera.jpg" target="_blank" rel="noopener noreferrer"><img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Embarktion%20for%20Cythera.jpg?width=850" alt="Antoine Watteau, Pellegrinaggio a Citera, 1717, Parigi, Louvre." loading="lazy" onerror="this.style.display='none';this.parentElement.insertAdjacentText('beforeend','Apri l’immagine su Wikimedia Commons')" /></a>
-<figcaption>Antoine Watteau, *Pellegrinaggio a Citera*, 1717, Parigi, Louvre. <a href="https://commons.wikimedia.org/wiki/File:The%20Embarktion%20for%20Cythera.jpg" target="_blank" rel="noopener noreferrer">Apri la riproduzione ad alta risoluzione</a>.</figcaption>
+<figcaption>Antoine Watteau, <em>Pellegrinaggio a Citera</em>, 1717, Parigi, Louvre. <a href="https://commons.wikimedia.org/wiki/File:The%20Embarktion%20for%20Cythera.jpg" target="_blank" rel="noopener noreferrer">Apri la riproduzione ad alta risoluzione</a>.</figcaption>
 </figure>
 
 Antoine Watteau realizza nel **1717** il dipinto associato alla sua ammissione all'Accademia reale francese. L'opera contribuisce a definire il genere della **fête galante**, con figure eleganti all'aperto in situazioni d'incontro e corteggiamento.
@@ -49,7 +49,7 @@ Antoine Watteau realizza nel **1717** il dipinto associato alla sua ammissione a
 
 <figure class="lesson-artwork">
 <a href="https://commons.wikimedia.org/wiki/File:Fran%C3%A7ois%20Boucher%20-%20The%20Triumph%20of%20Venus%20-%20Google%20Art%20Project.jpg" target="_blank" rel="noopener noreferrer"><img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Fran%C3%A7ois%20Boucher%20-%20The%20Triumph%20of%20Venus%20-%20Google%20Art%20Project.jpg?width=850" alt="François Boucher, Trionfo di Venere, 1740, Stoccolma, Nationalmuseum." loading="lazy" onerror="this.style.display='none';this.parentElement.insertAdjacentText('beforeend','Apri l’immagine su Wikimedia Commons')" /></a>
-<figcaption>François Boucher, *Trionfo di Venere*, 1740, Stoccolma, Nationalmuseum. <a href="https://commons.wikimedia.org/wiki/File:Fran%C3%A7ois%20Boucher%20-%20The%20Triumph%20of%20Venus%20-%20Google%20Art%20Project.jpg" target="_blank" rel="noopener noreferrer">Apri la riproduzione ad alta risoluzione</a>.</figcaption>
+<figcaption>François Boucher, <em>Trionfo di Venere</em>, 1740, Stoccolma, Nationalmuseum. <a href="https://commons.wikimedia.org/wiki/File:Fran%C3%A7ois%20Boucher%20-%20The%20Triumph%20of%20Venus%20-%20Google%20Art%20Project.jpg" target="_blank" rel="noopener noreferrer">Apri la riproduzione ad alta risoluzione</a>.</figcaption>
 </figure>
 
 François Boucher realizza nel **1740** una scena mitologica in cui Venere è circondata da figure nude, amorini, acqua, nuvole e stoffe. Nel dipinto il mito non funziona soprattutto come insegnamento morale; offre l'occasione per una grande **invenzione decorativa e sensuale**.
@@ -62,7 +62,7 @@ François Boucher realizza nel **1740** una scena mitologica in cui Venere è ci
 
 <figure class="lesson-artwork">
 <a href="https://commons.wikimedia.org/wiki/File:Fragonard%20-%20swing.jpg" target="_blank" rel="noopener noreferrer"><img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Fragonard%20-%20swing.jpg?width=850" alt="Jean-Honoré Fragonard, L'altalena, 1767, Londra, Wallace Collection." loading="lazy" onerror="this.style.display='none';this.parentElement.insertAdjacentText('beforeend','Apri l’immagine su Wikimedia Commons')" /></a>
-<figcaption>Jean-Honoré Fragonard, *L'altalena*, 1767, Londra, Wallace Collection. <a href="https://commons.wikimedia.org/wiki/File:Fragonard%20-%20swing.jpg" target="_blank" rel="noopener noreferrer">Apri la riproduzione ad alta risoluzione</a>.</figcaption>
+<figcaption>Jean-Honoré Fragonard, <em>L'altalena</em>, 1767, Londra, Wallace Collection. <a href="https://commons.wikimedia.org/wiki/File:Fragonard%20-%20swing.jpg" target="_blank" rel="noopener noreferrer">Apri la riproduzione ad alta risoluzione</a>.</figcaption>
 </figure>
 
 Nel quadro del **1767**, conservato alla Wallace Collection di Londra, una giovane donna vola sull'altalena in un giardino fitto di vegetazione. Un uomo nascosto la osserva dal basso, mentre un altro aziona l'altalena. La scarpetta che vola e una statua con il dito sulle labbra accentuano le allusioni del soggetto.
@@ -270,7 +270,7 @@ Le opere neoclassiche impiegano spesso contorni leggibili, composizioni ordinate
 
 <figure class="lesson-artwork">
 <a href="https://commons.wikimedia.org/wiki/File:%22Oath%20of%20the%20Horatii%22%20by%20Jacques-Louis%20David.jpg" target="_blank" rel="noopener noreferrer"><img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/%22Oath%20of%20the%20Horatii%22%20by%20Jacques-Louis%20David.jpg?width=850" alt="Jacques-Louis David, Il giuramento degli Orazi, 1784, Parigi, Louvre." loading="lazy" onerror="this.style.display='none';this.parentElement.insertAdjacentText('beforeend','Apri l’immagine su Wikimedia Commons')" /></a>
-<figcaption>Jacques-Louis David, *Il giuramento degli Orazi*, 1784, Parigi, Louvre. <a href="https://commons.wikimedia.org/wiki/File:%22Oath%20of%20the%20Horatii%22%20by%20Jacques-Louis%20David.jpg" target="_blank" rel="noopener noreferrer">Apri la riproduzione ad alta risoluzione</a>.</figcaption>
+<figcaption>Jacques-Louis David, <em>Il giuramento degli Orazi</em>, 1784, Parigi, Louvre. <a href="https://commons.wikimedia.org/wiki/File:%22Oath%20of%20the%20Horatii%22%20by%20Jacques-Louis%20David.jpg" target="_blank" rel="noopener noreferrer">Apri la riproduzione ad alta risoluzione</a>.</figcaption>
 </figure>
 
 Jacques-Louis David termina il dipinto nel **1784** ed espone l'opera al **Salon del 1785**: **quattro anni prima della Rivoluzione francese del 1789**. È un dato essenziale. La scena evoca la Roma leggendaria: tre fratelli Orazi giurano di combattere per la città, mentre i legami con la famiglia avversaria rendono doloroso il conflitto.
@@ -283,7 +283,7 @@ Jacques-Louis David termina il dipinto nel **1784** ed espone l'opera al **Salon
 
 <figure class="lesson-artwork">
 <a href="https://commons.wikimedia.org/wiki/File:Death%20of%20Marat%20by%20David.jpg" target="_blank" rel="noopener noreferrer"><img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Death%20of%20Marat%20by%20David.jpg?width=850" alt="Jacques-Louis David, La morte di Marat, 1793, Bruxelles, Musées royaux des Beaux-Arts." loading="lazy" onerror="this.style.display='none';this.parentElement.insertAdjacentText('beforeend','Apri l’immagine su Wikimedia Commons')" /></a>
-<figcaption>Jacques-Louis David, *La morte di Marat*, 1793, Bruxelles, Musées royaux des Beaux-Arts. <a href="https://commons.wikimedia.org/wiki/File:Death%20of%20Marat%20by%20David.jpg" target="_blank" rel="noopener noreferrer">Apri la riproduzione ad alta risoluzione</a>.</figcaption>
+<figcaption>Jacques-Louis David, <em>La morte di Marat</em>, 1793, Bruxelles, Musées royaux des Beaux-Arts. <a href="https://commons.wikimedia.org/wiki/File:Death%20of%20Marat%20by%20David.jpg" target="_blank" rel="noopener noreferrer">Apri la riproduzione ad alta risoluzione</a>.</figcaption>
 </figure>
 
 Nel **1793**, dopo l'assassinio di Jean-Paul Marat da parte di Charlotte Corday, David dipinge un'immagine commemorativa. Ora il pittore partecipa direttamente alla vita politica rivoluzionaria. Il quadro non è un resoconto neutrale: costruisce l'immagine pubblica di una vittima della causa giacobina.
@@ -296,7 +296,7 @@ Nel **1793**, dopo l'assassinio di Jean-Paul Marat da parte di Charlotte Corday,
 
 <figure class="lesson-artwork">
 <a href="https://commons.wikimedia.org/wiki/File:Psyche%20Revived%20by%20Cupid's%20Kiss.jpg" target="_blank" rel="noopener noreferrer"><img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Psyche%20Revived%20by%20Cupid's%20Kiss.jpg?width=850" alt="Antonio Canova, Amore e Psiche giacenti, 1787–1793, Parigi, Louvre." loading="lazy" onerror="this.style.display='none';this.parentElement.insertAdjacentText('beforeend','Apri l’immagine su Wikimedia Commons')" /></a>
-<figcaption>Antonio Canova, *Amore e Psiche giacenti*, 1787–1793, Parigi, Louvre. <a href="https://commons.wikimedia.org/wiki/File:Psyche%20Revived%20by%20Cupid's%20Kiss.jpg" target="_blank" rel="noopener noreferrer">Apri la riproduzione ad alta risoluzione</a>.</figcaption>
+<figcaption>Antonio Canova, <em>Amore e Psiche giacenti</em>, 1787–1793, Parigi, Louvre. <a href="https://commons.wikimedia.org/wiki/File:Psyche%20Revived%20by%20Cupid's%20Kiss.jpg" target="_blank" rel="noopener noreferrer">Apri la riproduzione ad alta risoluzione</a>.</figcaption>
 </figure>
 
 Il gruppo marmoreo di **Antonio Canova**, realizzato fra **1787 e 1793** e conservato al Louvre, rappresenta il momento in cui Amore si avvicina a Psiche dopo il suo lungo sonno, dalla vicenda raccontata da Apuleio.
