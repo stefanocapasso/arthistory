@@ -71,7 +71,7 @@ Nel quadro del **1767**, conservato alla Wallace Collection di Londra, una giova
 
 **Il significato sociale.** Il soggetto galante e malizioso è costruito per un pubblico ristretto in un ambiente privato. Non avrebbe avuto la stessa funzione di un grande quadro celebrativo esposto in una chiesa o in una sala pubblica.
 
-## Rococò e Illuminismo non sono sinonimi
+## Filosofia e idee del tempo — Rococò e Illuminismo non sono sinonimi
 
 Nel Settecento si diffondono anche le idee dell'**Illuminismo**, con riflessioni sulla ragione, sulla critica sociale, sulla conoscenza e sul rapporto fra individuo e istituzioni. È un fenomeno intellettuale ampio, non un singolo stile artistico. Rococò e Illuminismo **possono convivere nello stesso contesto cronologico**; in altri casi le critiche morali al lusso e alla frivolezza dell'aristocrazia colpiscono proprio l'arte galante. Non esiste una relazione automatica fra una filosofia e una scelta di pennellata.
 
@@ -305,7 +305,7 @@ Il gruppo marmoreo di **Antonio Canova**, realizzato fra **1787 e 1793** e conse
 
 **Confronto con Bernini.** Anche Canova rappresenta un episodio intensamente emotivo: «Barocco = movimento, Neoclassicismo = immobilità» è dunque una contrapposizione sbagliata. Nell'*Estasi di santa Teresa* la scultura fa parte di una cappella progettata come scena teatrale; in Canova l'interazione dei due corpi e il rapporto fra le viste della scultura dominano l'esperienza.
 
-## La svolta politica e l'Illuminismo europeo
+## Filosofia e idee del tempo — La svolta politica e l'Illuminismo europeo
 
 Alla fine del Settecento gli ideali di ragione e virtù non esprimono automaticamente una politica comune. David partecipa alla Rivoluzione francese, ma utilizzerà il linguaggio neoclassico anche nell'età napoleonica. **La forma non permette di dedurre da sola l'orientamento politico di un'opera**: bisogna ricostruire data, committenza, uso pubblico e ricezione.
 
