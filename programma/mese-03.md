@@ -268,7 +268,7 @@ Una questione comune all'arte e alla cultura scientifica è **che cosa renda aff
 ## Approfondimenti consigliati, non obbligatori
 
 <!-- optional:w3b-rec1 -->
-- [ ] Studia il [capitolo specifico sulle pitture olandesi del Seicento del Metropolitan Museum](https://www.metmuseum.org/toah/), scegliendo soltanto l'argomento pertinente al mercato dei quadri di genere; la pagina generale non è un compito.
+- [ ] Leggi nel [Metropolitan Museum — *Genre Painting in Northern Europe*](https://www.metmuseum.org/essays/genre-painting-in-northern-europe) **solo i paragrafi dedicati alla pittura olandese del Seicento**, osservando il rapporto fra interni privati, mercato e temi quotidiani.
 
 <!-- optional:w3b-rec2 -->
 - [ ] Confronta la pittura di Rembrandt con una sua incisione o un autoritratto, osservando la diversa funzione del mezzo grafico.
