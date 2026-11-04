@@ -20,6 +20,17 @@ Ogni mese deve contenere:
 9. Portfolio pratico.
 10. Sintesi finale e criterio di completamento.
 
+## Regola di profondità e distribuzione cronologica (revisione novembre 2026)
+Un secolo o una corrente di grande estensione, come il Barocco, **non può essere dichiarato studiato** dopo una sola introduzione e uno o due video. La prima panoramica è legittima, ma deve essere riconosciuta come tale; l'approfondimento effettivo va collocato esplicitamente nel programma con settimane aggiuntive, senza dare per acquisiti periodi mai affrontati.
+
+Per ogni grande blocco storico: (a) definizione storiograficamente precisa, cronologia e varietà geografica; (b) più opere con riproduzioni realmente risolte e analisi puntuale di composizione, tecnica, luce, gesto, spazio, destinazione e ricezione; (c) letture autorevoli selezionate e **indicazione di quali paragrafi studiare**; (d) linea parallela di storia delle idee con filosofi e concetti pertinenti, senza inventare causazioni; (e) riepiloghi **che contengano le risposte**, non domande generiche senza riscontro; (f) approfondimenti opzionali ben delimitati e tracciabili.
+
+Niente «due video e un riassunto» come unica trattazione di una corrente immensa. Evitare anche l'errore opposto di liste indiscriminate di fonti: in ogni settimana ci devono essere **materiali sostanziosi e pertinenti**, non un'enciclopedia delegata allo studente. Se quattro settimane non bastano a una copertura minima credibile, **spostare i periodi successivi al mese dopo**, invece di togliere filosofia e approfondimenti.
+
+Quando si riorganizza un mese che contiene progressi già registrati, **non rinumerare gli ID delle attività completate né riutilizzarli per compiti differenti**. Le attività già svolte restano valide come primo nucleo e devono essere integrate da nuove attività con ID univoci.
+
+L'immagine nominata nell'analisi deve comparire vicino al testo, oppure avere un link alla scheda ufficiale: non basta una galleria generica in fondo. Verificare **esistenza della scheda file, coerenza dell'opera rappresentata e, se possibile, caricamento dell'immagine nel browser**; se l'ultimo controllo non è stato eseguito, dichiararlo.
+
 ## Regola di copertura dei periodi, opere e concetti
 Se una settimana dichiara esplicitamente un confronto tra due periodi o stili, **entrambi devono essere realmente studiati prima dell'esercizio**. Non basta che il secondo compaia solo nell'opera da confrontare o in una domanda finale.
 
