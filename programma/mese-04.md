@@ -86,7 +86,7 @@ Nel Settecento si diffondono anche le idee dell'**Illuminismo**, con riflessioni
 ## Approfondimenti e attività
 
 <!-- task:w1-read1 -->
-- [ ] Leggi [Metropolitan Museum — The Rococo Style](https://www.metmuseum.org/toah/hd/roco/hd_roco.htm).
+- [ ] Leggi [Metropolitan Museum — Antoine Watteau e la pittura galante francese](https://www.metmuseum.org/essays/antoine-watteau-1684-1721).
 
 <!-- task:w1-read2 -->
 - [ ] Osserva [Watteau, *Pellegrinaggio a Citera*](https://commons.wikimedia.org/wiki/File:The_Embarktion_for_Cythera.jpg) ingrandendo le coppie in sequenza.
@@ -329,7 +329,7 @@ Alla fine del Settecento gli ideali di ragione e virtù non esprimono automatica
 - [ ] [Smarthistory — David, Giuramento degli Orazi](https://smarthistory.org/jacques-louis-david-oath-of-the-horatii/).
 
 <!-- task:w4-read2 -->
-- [ ] [Smarthistory — David, Morte di Marat](https://smarthistory.org/jacques-louis-david-death-of-marat/).
+- [ ] [Smarthistory — David, Morte di Marat](https://smarthistory.org/jacques-louis-david-the-death-of-marat/).
 
 <!-- task:w4-read3 -->
 - [ ] [Metropolitan Museum — Neoclassicism](https://www.metmuseum.org/toah/hd/neoc_1/hd_neoc_1.htm).
