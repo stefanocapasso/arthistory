@@ -26,7 +26,7 @@ I grandi risultati di Leonardo, Raffaello e Michelangelo sono considerati modell
 
 <figure class="lesson-artwork">
 <a href="https://commons.wikimedia.org/wiki/File:Jacopo%20da%20Pontormo%20-%20Deposizione.jpg" target="_blank" rel="noopener noreferrer"><img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Jacopo%20da%20Pontormo%20-%20Deposizione.jpg?width=850" alt="Jacopo Pontormo, Trasporto di Cristo (detto anche Deposizione), circa 1525–1528, Firenze, Santa Felicita." loading="lazy" onerror="this.style.display='none';this.parentElement.insertAdjacentText('beforeend','Apri l’immagine su Wikimedia Commons')" /></a>
-<figcaption>Jacopo Pontormo, *Trasporto di Cristo* (detto anche *Deposizione*), circa 1525–1528, Firenze, Santa Felicita. <a href="https://commons.wikimedia.org/wiki/File:Jacopo%20da%20Pontormo%20-%20Deposizione.jpg" target="_blank" rel="noopener noreferrer">Apri la riproduzione ad alta risoluzione</a>.</figcaption>
+<figcaption>Jacopo Pontormo, <em>Trasporto di Cristo</em> (detto anche <em>Deposizione</em>), circa 1525–1528, Firenze, Santa Felicita. <a href="https://commons.wikimedia.org/wiki/File:Jacopo%20da%20Pontormo%20-%20Deposizione.jpg" target="_blank" rel="noopener noreferrer">Apri la riproduzione ad alta risoluzione</a>.</figcaption>
 </figure>
 
 L'opera di Jacopo Pontormo fu eseguita intorno al **1525–1528** per la **cappella Capponi** nella chiesa di Santa Felicita a Firenze. Il titolo è già un problema interpretativo: viene abitualmente chiamata *Deposizione*, ma non si vede la croce né un sepolcro. È stata interpretata anche come *Trasporto di Cristo*, *Compianto* o episodio legato alla *Pietà*. Non bisogna presentare una di queste letture come un dato certamente dimostrato.
@@ -41,7 +41,7 @@ L'opera di Jacopo Pontormo fu eseguita intorno al **1525–1528** per la **cappe
 
 <figure class="lesson-artwork">
 <a href="https://commons.wikimedia.org/wiki/File:Parmigianino%20-%20Madonna%20dal%20collo%20lungo%20-%20Google%20Art%20Project.jpg" target="_blank" rel="noopener noreferrer"><img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Parmigianino%20-%20Madonna%20dal%20collo%20lungo%20-%20Google%20Art%20Project.jpg?width=850" alt="Parmigianino, Madonna dal collo lungo, 1534–1540, Firenze, Uffizi." loading="lazy" onerror="this.style.display='none';this.parentElement.insertAdjacentText('beforeend','Apri l’immagine su Wikimedia Commons')" /></a>
-<figcaption>Parmigianino, *Madonna dal collo lungo*, 1534–1540, Firenze, Uffizi. <a href="https://commons.wikimedia.org/wiki/File:Parmigianino%20-%20Madonna%20dal%20collo%20lungo%20-%20Google%20Art%20Project.jpg" target="_blank" rel="noopener noreferrer">Apri la riproduzione ad alta risoluzione</a>.</figcaption>
+<figcaption>Parmigianino, <em>Madonna dal collo lungo</em>, 1534–1540, Firenze, Uffizi. <a href="https://commons.wikimedia.org/wiki/File:Parmigianino%20-%20Madonna%20dal%20collo%20lungo%20-%20Google%20Art%20Project.jpg" target="_blank" rel="noopener noreferrer">Apri la riproduzione ad alta risoluzione</a>.</figcaption>
 </figure>
 
 La tavola fu commissionata nel **1534** per una cappella della chiesa di Santa Maria dei Servi a Parma e rimase **incompiuta** alla morte di Parmigianino, nel **1540**. Ora è agli Uffizi. La sua destinazione religiosa è fondamentale: l'artificio delle proporzioni non annulla il contenuto devozionale.
@@ -101,7 +101,7 @@ Il contesto cattolico della **Controriforma** è importante. Il Concilio di Tren
 
 <figure class="lesson-artwork">
 <a href="https://commons.wikimedia.org/wiki/File:Caravaggio's%20The%20Calling%20of%20St%20Matthew.jpg" target="_blank" rel="noopener noreferrer"><img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Caravaggio's%20The%20Calling%20of%20St%20Matthew.jpg?width=850" alt="Caravaggio, Vocazione di san Matteo, 1599–1600, Roma, San Luigi dei Francesi." loading="lazy" onerror="this.style.display='none';this.parentElement.insertAdjacentText('beforeend','Apri l’immagine su Wikimedia Commons')" /></a>
-<figcaption>Caravaggio, *Vocazione di san Matteo*, 1599–1600, Roma, San Luigi dei Francesi. <a href="https://commons.wikimedia.org/wiki/File:Caravaggio's%20The%20Calling%20of%20St%20Matthew.jpg" target="_blank" rel="noopener noreferrer">Apri la riproduzione ad alta risoluzione</a>.</figcaption>
+<figcaption>Caravaggio, <em>Vocazione di san Matteo</em>, 1599–1600, Roma, San Luigi dei Francesi. <a href="https://commons.wikimedia.org/wiki/File:Caravaggio's%20The%20Calling%20of%20St%20Matthew.jpg" target="_blank" rel="noopener noreferrer">Apri la riproduzione ad alta risoluzione</a>.</figcaption>
 </figure>
 
 Il dipinto del **1599–1600**, nella cappella Contarelli di San Luigi dei Francesi a Roma, raffigura la chiamata di Matteo da parte di Cristo. La storia sacra è inserita in una stanza austera, fra persone vestite in modo vicino alla contemporaneità dell'artista.
@@ -116,7 +116,7 @@ Il dipinto del **1599–1600**, nella cappella Contarelli di San Luigi dei Franc
 
 <figure class="lesson-artwork">
 <a href="https://commons.wikimedia.org/wiki/File:Judith%20Slaying%20Holofernes%20by%20Artemisia%20Gentileschi.jpg" target="_blank" rel="noopener noreferrer"><img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Judith%20Slaying%20Holofernes%20by%20Artemisia%20Gentileschi.jpg?width=850" alt="Artemisia Gentileschi, Giuditta che decapita Oloferne, circa 1620, Firenze, Uffizi." loading="lazy" onerror="this.style.display='none';this.parentElement.insertAdjacentText('beforeend','Apri l’immagine su Wikimedia Commons')" /></a>
-<figcaption>Artemisia Gentileschi, *Giuditta che decapita Oloferne*, circa 1620, Firenze, Uffizi. <a href="https://commons.wikimedia.org/wiki/File:Judith%20Slaying%20Holofernes%20by%20Artemisia%20Gentileschi.jpg" target="_blank" rel="noopener noreferrer">Apri la riproduzione ad alta risoluzione</a>.</figcaption>
+<figcaption>Artemisia Gentileschi, <em>Giuditta che decapita Oloferne</em>, circa 1620, Firenze, Uffizi. <a href="https://commons.wikimedia.org/wiki/File:Judith%20Slaying%20Holofernes%20by%20Artemisia%20Gentileschi.jpg" target="_blank" rel="noopener noreferrer">Apri la riproduzione ad alta risoluzione</a>.</figcaption>
 </figure>
 
 Nella versione conservata agli Uffizi, datata intorno al **1620**, Artemisia Gentileschi rappresenta il culmine dell'episodio biblico. La relazione con il naturalismo caravaggesco è evidente, ma non rende l'artista una semplice imitatrice.
@@ -129,7 +129,7 @@ Nella versione conservata agli Uffizi, datata intorno al **1620**, Artemisia Gen
 
 <figure class="lesson-artwork">
 <a href="https://commons.wikimedia.org/wiki/File:Ecstasy%20of%20Saint%20Theresa.jpg" target="_blank" rel="noopener noreferrer"><img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Ecstasy%20of%20Saint%20Theresa.jpg?width=850" alt="Gian Lorenzo Bernini, Estasi di santa Teresa, 1647–1652, Roma, Santa Maria della Vittoria." loading="lazy" onerror="this.style.display='none';this.parentElement.insertAdjacentText('beforeend','Apri l’immagine su Wikimedia Commons')" /></a>
-<figcaption>Gian Lorenzo Bernini, *Estasi di santa Teresa*, 1647–1652, Roma, Santa Maria della Vittoria. <a href="https://commons.wikimedia.org/wiki/File:Ecstasy%20of%20Saint%20Theresa.jpg" target="_blank" rel="noopener noreferrer">Apri la riproduzione ad alta risoluzione</a>.</figcaption>
+<figcaption>Gian Lorenzo Bernini, <em>Estasi di santa Teresa</em>, 1647–1652, Roma, Santa Maria della Vittoria. <a href="https://commons.wikimedia.org/wiki/File:Ecstasy%20of%20Saint%20Theresa.jpg" target="_blank" rel="noopener noreferrer">Apri la riproduzione ad alta risoluzione</a>.</figcaption>
 </figure>
 
 Realizzata nella cappella Cornaro della chiesa romana di Santa Maria della Vittoria tra **1647 e 1652**, l'opera rappresenta l'esperienza mistica descritta da Teresa d'Ávila, trafitta simbolicamente dall'amore divino.
